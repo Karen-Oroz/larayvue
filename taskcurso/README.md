@@ -1,8 +1,7 @@
 # Autor
-- Nombre: Jesus Gustavo Santos Tirado
-- Email: a23311013@uthermosillo.edu.mx
-- GitHub: [@Gustavo06-san]
-
+- Nombre: Karen Jimena Oroz Novella 
+- Email: a23311032@uthermosillo.edu.mxx
+- GitHub: [@Karen-Oroz]
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>

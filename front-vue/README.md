@@ -1,7 +1,7 @@
 # Autor
-- Nombre: Jesus Gustavo Santos Tirado
-- Email: a23311013@uthermosillo.edu.mx
-- GitHub: [@Gustavo06-san]
+- Nombre: Karen Jimena Oroz Novella 
+- Email: a23311032@uthermosillo.edu.mxx
+- GitHub: [@Karen-Oroz]
 
 
 # front-vue
